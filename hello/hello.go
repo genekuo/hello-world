@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/genekuo/hello/tempconv"
+	"github.com/genekuo/example/tempconv"
 )
 
 func main() {
