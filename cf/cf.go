@@ -1,11 +1,11 @@
 // CF converts its numeric argument to Celsius and Fahrenheit
 package main
-	
+
 import (
 	"fmt"
+	"github.com/genekuo/example/tempconv"
 	"os"
 	"strconv"
-	"github.com/genekuo/example/tempconv"
 )
 
 func main() {
